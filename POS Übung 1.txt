@@ -1,0 +1,28 @@
+39 turtle1.right(WINKEL2)                                                                                     
+40 turtle1.forward(LAENGE)                                                                                    
+41 turtle1.right(WINKEL1)                                                                                     
+42 turtle1.forward(LAENGE)                                                                                    
+43 turtle1.right(WINKEL3)                                                                                     
+44 turtle1.forward(LAENGE)                                                                                    
+45 turtle1.forward(LAENGE)                                                                                    
+46                                                                                                            
+47 name = input("Name eingeben")                                                                              
+48 year=input("Geburtsjahr eingeben")                                                                         
+49 weight =input ("Gewicht eingeben")                                                                         
+50                                                                                                            
+51 print("Hallo" , name + "!")                                                                                
+52 print("Schön dass du da bist" , name + "!")                                                                
+53                                                                                                            
+54 #Umwandlung in Ganzzahl min int                                                                            
+55 print(name, "ist", 2026-int(year), "Jahre alt")                                                            
+56 #Umwandlung in Fliesskommazahl mit float                                                                   
+57 print(name, "weight", float(weight), "kg")                                                                 
+58                                                                                                            
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                              
+POS Linux Übung (56,41) | ft:unknown | unix | utf-8                              Alt-g: bindings, Ctrl-g: help
+Saved POS Linux Übung                                                                                         
